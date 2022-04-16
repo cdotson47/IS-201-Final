@@ -1,0 +1,64 @@
+/* Font and color override for title */ 
+.myh1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#408fc4;
+
+}
+
+body {
+    background-image: url("../assets/Images/bg.jpeg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
+
+/* Navigation Bar Override */
+
+#orNavBar{
+    background-color: rgb(40, 40, 41);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color:white;   
+}
+
+ /* Footer Override */ 
+.newFooter{
+    background-color: rgb(40, 40, 41);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    color: white;
+}
+
+/* Inner Box Override */
+.innerbox{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    padding-right: 5rem;
+    padding-left: 5rem;
+    background-color: rgba(255, 255, 255, 0.9);
+    text-align: left;
+}
+
+.stripe{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: rgba(40, 40, 41, 0.9);
+}    
+
+.padding{
+    padding-left: 5rem;
+    padding-top: 2rem;
+}
+
+.bottompadding{
+    padding-bottom: 5rem;
+}
+
+/*BYU Picture Size*/
+.picbox{
+    bottom: 400px;
+    height: 400px;
+    left: 400px;
+    right: 400px;
+    padding-left: 60%;
+}

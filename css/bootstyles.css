@@ -1,0 +1,47 @@
+body{
+    background-color: #aceeff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+
+.header{
+    top:5px;
+    left: 5px;
+    right: 5px;
+    height: 100px; 
+}
+
+.leftmenu{
+    top: 114px;
+    left: 5px;
+    width:100px;
+    bottom: 64px;
+}
+
+.rightmenu{
+    top: 114px;
+    right: 5px;
+    width:100px;
+    bottom: 64px;
+}
+
+.mainbody{
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+}
+.footer{
+    bottom: 5px;
+    height: 50px;
+    left: 0px;
+    right: 5px;
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    
+}
+
+/* Tableau Graph Box size */
